@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9+edWLkdeGq4vBb1ju1dY1ZCFW51oFZADx3bGpKKgHJrslgcYKUbqg5oi4d8l2vpzE0N+DT+O6w/gEhwOKzDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Vzippa\\Vzp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\yamldotnet\\9.1.1\\yamldotnet.9.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
